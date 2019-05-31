@@ -2,7 +2,7 @@
 # Course Overview and Preparation
 <!-- end auto-generated section -->
 
-
+##Testing change in github rtaguma
 ## Overview
 
 Welcome to the **Introduction to Open Source Workshop**. Participants are expected to walk away with enough knowledge to be able to participate in a typical open source project. The workshop has a mixture of hands-on exercises and lecture/demos, with the focus on hands-on activities.
